@@ -1,4 +1,4 @@
 Function Main
-    ... This program displays "Hello world!"
-    Output "Hello World!"
+    ... This program displays "Hello Miljana!"
+    Output "Hello Miljana!"
 End
